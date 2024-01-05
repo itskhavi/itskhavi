@@ -7,8 +7,6 @@
 
 - 💬 Ask me about **react, Vue, aesthetic UI components, Js**
 
-- 
-
 - 📄 Know about my experiences [linkedin.com/in/steeve-m](linkedin.com/in/steeve-m)
 
 - ⚡ Fun fact **I think I am funny**
