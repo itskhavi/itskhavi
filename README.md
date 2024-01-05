@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **react, Vue, aesthetic UI components, Js**
 
-- 📫 How to reach me **steevemasinde@gmail.com**
+- 
 
 - 📄 Know about my experiences [linkedin.com/in/steeve-m](linkedin.com/in/steeve-m)
 
