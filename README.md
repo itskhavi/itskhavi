@@ -1,18 +1,18 @@
-<h1 align="center">Hi 👋, I'm Steeve Masinde</h1>
+<h1 align="center">Hi 👋, I'm Steeve </h1>
 <h3 align="center">A passionate frontend developer from Kenya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itskhavi&label=Profile%20views&color=0e75b6&style=flat" alt="itskhavi" /> </p>
 
 - 📝 I regularly write articles on [medium.com/itskhavi](medium.com/itskhavi)
 
-- 💬 Ask me about **react, Vue, aesthetic UI components, Js**
+- 💬 Ask me about **Security, OSINT, Software development, AI and Automation**
 
 - ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/1960dude" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="1960dude" height="30" width="40" /></a>
-<a href="https://www.behance.net/steeve-m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="steeve-m" height="30" width="40" /></a>
+
 <a href="https://medium.com/@itskhavi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@itskhavi" height="30" width="40" /></a>
 </p>
 
